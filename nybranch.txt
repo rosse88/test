@@ -1,2 +1,1 @@
-nu testar jag lägga in en ny branch här
-och jag ändrar den från master för att se om det blir ändringar i olle branch
+Nu vill jag lägga in den här koden på master branchen och kommer då skriva över det gamla
